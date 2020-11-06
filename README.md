@@ -2,9 +2,6 @@
 
 Not fully done.
 
+1.Install packages:	run npm install
 
-Install packages
-run npm install
-
-Run project
-run npm start
+2.Run project:	run npm start
